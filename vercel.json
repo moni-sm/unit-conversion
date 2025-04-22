@@ -2,18 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "src/app/navbar/navbar.component.ts",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "src/**/*.{js,ts,html,scss}",
+      "src": "dist/unit-converter-app/**/*",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/src/$1"
+      "dest": "/dist/unit-converter-app/$1"
     }
   ]
 }
