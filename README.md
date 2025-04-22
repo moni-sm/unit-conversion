@@ -50,7 +50,7 @@ Tailwind CSS is already configured in the project. To ensure it is working corre
 ng serve
 ```
 
-Navigate to [http://localhost:4200/](http://localhost:4200/) in your browser to access the app.
+Navigate to [unit-convertion.vercel.app) in your browser to access the app.
 
 ## 🚀 Usage
 
