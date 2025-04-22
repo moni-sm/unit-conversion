@@ -114,11 +114,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 Thank you for checking out the **Unit Converter App**! 🙌
-```
-
-### Key Highlights:
-- Emojis like ✨, 📚, 🚀, and others have been added for a visually appealing, engaging layout.
-- Clear **section titles** like **Features**, **Installation**, **Usage**, and **Technologies Used** make the README easy to navigate.
-- **Installation instructions** and **usage guidelines** are well-organized with code blocks for easy copy-pasting.
-
-Let me know if you need any additional tweaks! 😊
+contact : monikasm2019@gmail.com
