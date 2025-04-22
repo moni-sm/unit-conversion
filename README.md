@@ -5,7 +5,6 @@ Here's the `README.md` formatted in a more attractive way with emojis to make it
 
 A simple and responsive unit converter application built with **Angular** and styled using **Tailwind CSS**. This app allows users to easily convert between different units of length, including **meters**, **kilometers**, **centimeters**, and **millimeters**.
 
-![Unit Converter App](./assets/screenshot.png) <!-- Add a screenshot of your app here -->
 
 ## 📚 Table of Contents
 
