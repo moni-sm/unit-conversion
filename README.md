@@ -1,6 +1,4 @@
-Here's the `README.md` formatted in a more attractive way with emojis to make it visually engaging. You can copy and paste this directly:
 
-```markdown
 # ✨ Unit Converter App ✨
 
 A simple and responsive unit converter application built with **Angular** and styled using **Tailwind CSS**. This app allows users to easily convert between different units of length, including **meters**, **kilometers**, **centimeters**, and **millimeters**.
@@ -24,6 +22,7 @@ A simple and responsive unit converter application built with **Angular** and st
 - **User-friendly interface** designed to offer a smooth and intuitive experience.
 - **Reset** button to clear the fields and start fresh.
 - **Swap** button to quickly switch between the "From" and "To" units.
+
 
 ## ⚙️ Installation
 
@@ -115,3 +114,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Thank you for checking out the **Unit Converter App**! 🙌
 contact : monikasm2019@gmail.com
+=======
+   ```bash
+   git clone https://github.com/manthanank/unit-converter-app.git
+   cd unit-converter-app
+
