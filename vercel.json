@@ -1,17 +1,15 @@
-
 {
   "version": 2,
   "builds": [
     {
-      "src": "dist/unit-converter-app/**",
+      "src": "dist/unit-converter-app/**/*",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/dist/unit-converter-app/$1"
     }
   ]
 }
-
